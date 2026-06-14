@@ -1,6 +1,6 @@
-# Janaa Birthday Surprise
+# Husband Birthday Surprise 
 
-A personalized surprise webpage for Janaa featuring a cinematic intro, love story timeline, memory gallery, interactive reasons cards, and background music playlist support.
+A personalized surprise webpage for Husband featuring a cinematic intro, love story timeline, memory gallery, interactive reasons cards, and background music playlist support.
 
 ## Features
 
@@ -31,4 +31,4 @@ A personalized surprise webpage for Janaa featuring a cinematic intro, love stor
 
 ## Author
 
-Created for Janaa as a birthday surprise.
+Created for Husband as a birthday surprise.
